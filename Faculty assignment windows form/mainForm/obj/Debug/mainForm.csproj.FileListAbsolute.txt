@@ -1,0 +1,71 @@
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A1\mainForm\obj\Debug\mainForm.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A1\mainForm\obj\Debug\mainForm.addAssign.resources
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A1\mainForm\obj\Debug\mainForm.addFaculty.resources
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A1\mainForm\obj\Debug\mainForm._mainForm.resources
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A1\mainForm\obj\Debug\mainForm.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A1\mainForm\obj\Debug\mainForm.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A1\mainForm\obj\Debug\mainForm.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A1\mainForm\bin\Debug\mainForm.exe.config
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A1\mainForm\bin\Debug\mainForm.exe
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A1\mainForm\bin\Debug\mainForm.pdb
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A1\mainForm\bin\Debug\FacultyLib301050676.dll
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A1\mainForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A1\mainForm\bin\Debug\FacultyLib301050676.pdb
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A1\mainForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A1\mainForm\obj\Debug\mainForm.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A1\mainForm\obj\Debug\mainForm.exe
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A1\mainForm\obj\Debug\mainForm.pdb
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A3\mainForm\bin\Debug\mainForm.exe.config
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A3\mainForm\bin\Debug\mainForm.exe
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A3\mainForm\bin\Debug\mainForm.pdb
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A3\mainForm\bin\Debug\FacultyLib301050676.dll
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A3\mainForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A3\mainForm\bin\Debug\FacultyLib301050676.pdb
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A3\mainForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A3\mainForm\obj\Debug\mainForm.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A3\mainForm\obj\Debug\mainForm.addAssign.resources
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A3\mainForm\obj\Debug\mainForm.addFaculty.resources
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A3\mainForm\obj\Debug\mainForm._mainForm.resources
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A3\mainForm\obj\Debug\mainForm.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A3\mainForm\obj\Debug\mainForm.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A3\mainForm\obj\Debug\mainForm.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A3\mainForm\obj\Debug\mainForm.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A3\mainForm\obj\Debug\mainForm.exe
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A3\mainForm\obj\Debug\mainForm.pdb
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A3\mainForm\obj\Debug\mainForm._frmFacultyCourse.resources
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A4\mainForm\bin\Debug\mainForm.exe.config
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A4\mainForm\bin\Debug\mainForm.exe
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A4\mainForm\bin\Debug\mainForm.pdb
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A4\mainForm\bin\Debug\FacultyLib301050676.dll
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A4\mainForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A4\mainForm\bin\Debug\FacultyLib301050676.pdb
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A4\mainForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A4\mainForm\obj\Debug\mainForm.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A4\mainForm\obj\Debug\mainForm.addAssign.resources
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A4\mainForm\obj\Debug\mainForm.addFaculty.resources
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A4\mainForm\obj\Debug\mainForm._frmFacultyCourse.resources
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A4\mainForm\obj\Debug\mainForm._mainForm.resources
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A4\mainForm\obj\Debug\mainForm.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A4\mainForm\obj\Debug\mainForm.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A4\mainForm\obj\Debug\mainForm.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A4\mainForm\obj\Debug\mainForm.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A4\mainForm\obj\Debug\mainForm.exe
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A4\mainForm\obj\Debug\mainForm.pdb
+C:\Users\Lenovo\Documents\Faculty assignment windows form\mainForm\obj\Debug\mainForm.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\Faculty assignment windows form\mainForm\obj\Debug\mainForm.addAssign.resources
+C:\Users\Lenovo\Documents\Faculty assignment windows form\mainForm\obj\Debug\mainForm.addFaculty.resources
+C:\Users\Lenovo\Documents\Faculty assignment windows form\mainForm\obj\Debug\mainForm._frmFacultyCourse.resources
+C:\Users\Lenovo\Documents\Faculty assignment windows form\mainForm\obj\Debug\mainForm._mainForm.resources
+C:\Users\Lenovo\Documents\Faculty assignment windows form\mainForm\obj\Debug\mainForm.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Faculty assignment windows form\mainForm\obj\Debug\mainForm.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\Faculty assignment windows form\mainForm\obj\Debug\mainForm.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Faculty assignment windows form\mainForm\obj\Debug\mainForm.exe
+C:\Users\Lenovo\Documents\Faculty assignment windows form\mainForm\obj\Debug\mainForm.pdb
+C:\Users\Lenovo\Documents\Faculty assignment windows form\mainForm\bin\Debug\mainForm.exe.config
+C:\Users\Lenovo\Documents\Faculty assignment windows form\mainForm\bin\Debug\mainForm.exe
+C:\Users\Lenovo\Documents\Faculty assignment windows form\mainForm\bin\Debug\mainForm.pdb
+C:\Users\Lenovo\Documents\Faculty assignment windows form\mainForm\bin\Debug\FacultyLib301050676.dll
+C:\Users\Lenovo\Documents\Faculty assignment windows form\mainForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\Documents\Faculty assignment windows form\mainForm\bin\Debug\FacultyLib301050676.pdb
+C:\Users\Lenovo\Documents\Faculty assignment windows form\mainForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\Documents\Faculty assignment windows form\mainForm\obj\Debug\mainForm.csproj.CopyComplete

@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A1\FacultyLib\obj\Debug\FacultyLib.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A1\FacultyLib\obj\Debug\FacultyLib.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A1\FacultyLib\bin\Debug\FacultyLib301050676.dll
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A1\FacultyLib\bin\Debug\FacultyLib301050676.pdb
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A1\FacultyLib\obj\Debug\FacultyLib301050676.dll
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A1\FacultyLib\obj\Debug\FacultyLib301050676.pdb

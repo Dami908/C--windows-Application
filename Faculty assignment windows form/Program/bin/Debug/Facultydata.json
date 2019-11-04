@@ -1,0 +1,210 @@
+{
+  "$type": "FacultyLib.Faculty[], FacultyLib301050676",
+  "$values": [
+    {
+      "$type": "FacultyLib.Faculty, FacultyLib301050676",
+      "EmployeeNumber": 3,
+      "Name": "Bob",
+      "StartOfEmployment": "2010-01-01T00:00:00",
+      "TelephonNumber": 41612345678,
+      "Address": {
+        "$type": "FacultyLib.Address, FacultyLib301050676",
+        "Street": "11 Elm St",
+        "City": "Toronto",
+        "Province": "ON",
+        "PostalCode": null
+      },
+      "Email": {
+        "$type": "System.String[], mscorlib",
+        "$values": [
+          "fac1@cencol.ca",
+          "fac1@acme.ca",
+          "fac1@gmail.ca",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "Course": {
+        "$type": "FacultyLib.Course[], FacultyLib301050676",
+        "$values": [
+          {
+            "$type": "FacultyLib.Course, FacultyLib301050676",
+            "Subject": 0,
+            "Number": 102,
+            "Title": "Programming 1",
+            "CourseCode": "Programming 1102"
+          },
+          {
+            "$type": "FacultyLib.Course, FacultyLib301050676",
+            "Subject": 0,
+            "Number": 126,
+            "Title": "Programming 2",
+            "CourseCode": "Programming 2126"
+          },
+          {
+            "$type": "FacultyLib.Course, FacultyLib301050676",
+            "Subject": 0,
+            "Number": 203,
+            "Title": "Oracle DB",
+            "CourseCode": "Oracle DB203"
+          },
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "$type": "FacultyLib.Faculty, FacultyLib301050676",
+      "EmployeeNumber": 3,
+      "Name": "Ann",
+      "StartOfEmployment": "2012-02-02T00:00:00",
+      "TelephonNumber": 4162345678,
+      "Address": {
+        "$type": "FacultyLib.Address, FacultyLib301050676",
+        "Street": "22 Queen St",
+        "City": "Toronto",
+        "Province": "ON",
+        "PostalCode": null
+      },
+      "Email": {
+        "$type": "System.String[], mscorlib",
+        "$values": [
+          "fac2@cencol.ca",
+          "fac2@abc.ca",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "Course": {
+        "$type": "FacultyLib.Course[], FacultyLib301050676",
+        "$values": [
+          {
+            "$type": "FacultyLib.Course, FacultyLib301050676",
+            "Subject": 0,
+            "Number": 126,
+            "Title": "Programming 2",
+            "CourseCode": "Programming 2126"
+          },
+          {
+            "$type": "FacultyLib.Course, FacultyLib301050676",
+            "Subject": 0,
+            "Number": 203,
+            "Title": "Oracle DB",
+            "CourseCode": "Oracle DB203"
+          },
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "$type": "FacultyLib.Faculty, FacultyLib301050676",
+      "EmployeeNumber": 3,
+      "Name": "John",
+      "StartOfEmployment": "2013-03-03T00:00:00",
+      "TelephonNumber": 0,
+      "Address": {
+        "$type": "FacultyLib.Address, FacultyLib301050676",
+        "Street": "33 King St",
+        "City": "Toronto",
+        "Province": "ON",
+        "PostalCode": null
+      },
+      "Email": {
+        "$type": "System.String[], mscorlib",
+        "$values": [
+          "fac3@cencol.ca",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "Course": {
+        "$type": "FacultyLib.Course[], FacultyLib301050676",
+        "$values": [
+          {
+            "$type": "FacultyLib.Course, FacultyLib301050676",
+            "Subject": 0,
+            "Number": 102,
+            "Title": "Business communications",
+            "CourseCode": "Business communications102"
+          },
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A1\Assignment1_301050676\bin\Debug\Assignment1_301050676.dll
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A1\Assignment1_301050676\bin\Debug\Assignment1_301050676.pdb
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A1\Assignment1_301050676\obj\Debug\Assignment1_301050676.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A1\Assignment1_301050676\obj\Debug\Assignment1_301050676.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A1\Assignment1_301050676\obj\Debug\Assignment1_301050676.dll
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A1\Assignment1_301050676\obj\Debug\Assignment1_301050676.pdb

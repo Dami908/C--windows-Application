@@ -1,0 +1,36 @@
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A1\FacultyLib\bin\Debug\FacultyLib301050676.dll
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A1\FacultyLib\bin\Debug\FacultyLib301050676.pdb
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A1\FacultyLib\obj\Debug\FacultyLib 301050676.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A1\FacultyLib\obj\Debug\FacultyLib 301050676.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A1\FacultyLib\obj\Debug\FacultyLib301050676.dll
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A1\FacultyLib\obj\Debug\FacultyLib301050676.pdb
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A1\FacultyLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A1\FacultyLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A1\FacultyLib\obj\Debug\FacultyLib 301050676.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A3\FacultyLib\bin\Debug\FacultyLib301050676.dll
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A3\FacultyLib\bin\Debug\FacultyLib301050676.pdb
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A3\FacultyLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A3\FacultyLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A3\FacultyLib\obj\Debug\FacultyLib 301050676.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A3\FacultyLib\obj\Debug\FacultyLib 301050676.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A3\FacultyLib\obj\Debug\FacultyLib 301050676.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A3\FacultyLib\obj\Debug\FacultyLib301050676.dll
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A3\FacultyLib\obj\Debug\FacultyLib301050676.pdb
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A4\FacultyLib\bin\Debug\FacultyLib301050676.dll
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A4\FacultyLib\bin\Debug\FacultyLib301050676.pdb
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A4\FacultyLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A4\FacultyLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A4\FacultyLib\obj\Debug\FacultyLib 301050676.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A4\FacultyLib\obj\Debug\FacultyLib 301050676.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A4\FacultyLib\obj\Debug\FacultyLib 301050676.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A4\FacultyLib\obj\Debug\FacultyLib301050676.dll
+C:\Users\Lenovo\source\repos\EmmanuelAjayi_301050676_A4\FacultyLib\obj\Debug\FacultyLib301050676.pdb
+C:\Users\Lenovo\Documents\Faculty assignment windows form\FacultyLib\bin\Debug\FacultyLib301050676.dll
+C:\Users\Lenovo\Documents\Faculty assignment windows form\FacultyLib\bin\Debug\FacultyLib301050676.pdb
+C:\Users\Lenovo\Documents\Faculty assignment windows form\FacultyLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\Documents\Faculty assignment windows form\FacultyLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\Documents\Faculty assignment windows form\FacultyLib\obj\Debug\FacultyLib 301050676.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\Faculty assignment windows form\FacultyLib\obj\Debug\FacultyLib 301050676.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Faculty assignment windows form\FacultyLib\obj\Debug\FacultyLib 301050676.csproj.CopyComplete
+C:\Users\Lenovo\Documents\Faculty assignment windows form\FacultyLib\obj\Debug\FacultyLib301050676.dll
+C:\Users\Lenovo\Documents\Faculty assignment windows form\FacultyLib\obj\Debug\FacultyLib301050676.pdb

@@ -1,0 +1,107 @@
+{
+  "$type": "System.Collections.Generic.List`1[[FacultyLib.Faculty, FacultyLib301050676]], mscorlib",
+  "$values": [
+    {
+      "$type": "FacultyLib.Faculty, FacultyLib301050676",
+      "Address1": {
+        "$type": "FacultyLib.Address, FacultyLib301050676",
+        "Street": "gggg",
+        "City": "gggg",
+        "Province": "gggg",
+        "PostalCode": null
+      },
+      "Course1": {
+        "$type": "System.Collections.Generic.List`1[[FacultyLib.Course, FacultyLib301050676]], mscorlib",
+        "$values": [
+          {
+            "$type": "FacultyLib.Course, FacultyLib301050676",
+            "Subject": 0,
+            "EndOfCourse": "0001-01-01T00:00:00",
+            "AssignedCourse": false,
+            "CourseAssignTime": "0001-01-01T00:00:00",
+            "Items": {
+              "$type": "System.Collections.Generic.List`1[[FacultyLib301050676.NewCourseList, FacultyLib301050676]], mscorlib",
+              "$values": [
+                {
+                  "$type": "FacultyLib301050676.NewCourseList, FacultyLib301050676",
+                  "Item": {
+                    "$type": "FacultyLib301050676.CourseList.CECP100, FacultyLib301050676",
+                    "Coursecode": "COMP 101",
+                    "Description": "PC Hardware",
+                    "coursecode": "COMP 101",
+                    "details": "PC Hardware"
+                  }
+                },
+                {
+                  "$type": "FacultyLib301050676.NewCourseList, FacultyLib301050676",
+                  "Item": {
+                    "$type": "FacultyLib301050676.CourseList.COMP228, FacultyLib301050676",
+                    "Coursecode": "COMP 228",
+                    "Description": "Introduction to javascript",
+                    "coursecode": "COMP 228",
+                    "details": "Introduction to javascript"
+                  }
+                }
+              ]
+            },
+            "Number": 0,
+            "Title": "COMP 228",
+            "CourseCode": "COMP 228 "
+          }
+        ]
+      },
+      "EmployeeNumber": 1,
+      "EmpID": 1555,
+      "Name": "gggg",
+      "StartOfEmployment": "0001-01-01T00:00:00",
+      "TelephonNumber": 555,
+      "Address": {
+        "$type": "FacultyLib.Address, FacultyLib301050676",
+        "Street": "gggg",
+        "City": "gggg",
+        "Province": "gggg",
+        "PostalCode": null
+      },
+      "Email": {
+        "$type": "System.String[], mscorlib",
+        "$values": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "Course": {
+        "$type": "FacultyLib.Course[], FacultyLib301050676",
+        "$values": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    }
+  ]
+}
